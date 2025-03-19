@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"] ,
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "Codigo_Balanza\\lib\\jtds-1.3.1.jar",
+        "c:\\Users\\cguerra\\Documents\\Codigo_Balanza\\Codigo_Balanza\\lib\\jSerialComm-2.11.0.jar"
+    ]
+}
+
+
